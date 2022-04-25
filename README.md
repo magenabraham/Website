@@ -1,14 +1,15 @@
 # Website
-Website/App for Yeshivat Magen Abraham
-Brooklyn, NY
-
-Class of 2025
-Mark Setton
-Eli Hara
-Orel Louz
-Eli Hasbani (eli copter_14)
-Eli Betesh
-Albert Swaid
-Mikey Harosh
-Ray Fatiha
-Ronie Merechli (lets go nets)
+Website/App for Yeshivat Magen Abraham<br>
+Brooklyn, NY<br>
+<br>
+Class of 2025<br>
+Mark Setton<br>
+Eli Hara<br>
+Orel Louz<br>
+Eli Hasbani (eli copter_14)<br>
+Eli Betesh<br>
+Albert Swaid<br>
+Mikey Harosh<br>
+Ray Fatiha<br>
+Ronie Merechli (lets go nets)<br>
+<br>
